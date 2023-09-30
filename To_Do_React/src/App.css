@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  margin: auto;
+  padding-top: 4%;
+  background-color: black;
+  color: antiquewhite;
+  height: 600px;
+  width: 500px;
+  
+ 
+}
+.ol{
+  text-align: left;
+}
+.seconddiv{
+  margin: auto;
+  width: 300px;
+}
+.Firstdiv{
+  margin-top: -1%;
+  background-image: url('https://media.istockphoto.com/photos/slow-down-and-relax-picture-id488663731');
+  height: 740px;
+  
+}
+
